@@ -91,11 +91,10 @@ Built to help **clinicians, radiologists, and healthcare leaders** make fast, ac
 
 ---
 
-## # Live Links
+## # Project Links
 
 - 📄 [Dashboard PDF Preview](https://github.com/SweetySeelam2/Breast-Cancer-Risk-Predictor/blob/main/Breast%20Cancer%20Prediction.pdf)
 - 🌐 [Live Streamlit App](https://livedata-breastcancer-predictor.streamlit.app/)
-- 👩‍💻 [Author Portfolio](https://sweetyseelam2.github.io/SweetySeelam.github.io/)
 - 📦 [GitHub Repo](https://github.com/SweetySeelam2/Breast-Cancer-Risk-Predictor)
 
 ---
@@ -116,9 +115,23 @@ This project demonstrates how **interpretable machine learning** can drive real-
 
 ---
 
-## 🔒 Proprietary & All Rights Reserved
+## 👩‍💼 About the Author    
 
-© 2025 Sweety Seelam. This work is proprietary and protected by copyright. All content, models, code, and visuals are © 2025 Sweety Seelam. No part of this project, app, code, or analysis may be copied, reproduced, distributed, or used for any purpose—commercial or otherwise—without explicit written permission from the author.
+**Sweety Seelam** | Business Analyst | Aspiring Data Scientist | Passionate about building end-to-end ML solutions for real-world problems                                                                                                      
+                                                                                                                                           
+Email: sweetyseelam2@gmail.com                                                   
 
-For licensing, commercial use, or collaboration inquiries, please contact: Email: sweetyseelam2@gmail.com
+🔗 **Profile Links**                                                                                                                                                                       
+[Portfolio Website](https://sweetyseelam2.github.io/SweetySeelam.github.io/)                                                         
+[LinkedIn](https://www.linkedin.com/in/sweetyrao670/)                                                                   
+[GitHub](https://github.com/SweetySeelam2)                                                             
+[Medium](https://medium.com/@sweetyseelam)
 
+---
+
+## 🔐 Proprietary & All Rights Reserved
+© 2025 Sweety Seelam. All rights reserved.
+
+This project, including its source code, trained models, datasets (where applicable), visuals, and dashboard assets, is protected under copyright and made available for educational and demonstrative purposes only.
+
+Unauthorized commercial use, redistribution, or duplication of any part of this project is strictly prohibited.
